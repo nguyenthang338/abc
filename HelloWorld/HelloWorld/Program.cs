@@ -17,7 +17,11 @@ namespace HelloWorld
         }
         public static void Pull()
         {
-
+            Console.WriteLine("hello world");
+        }
+        public static void Pull()
+        {
+            Console.WriteLine("hello world");
         }
     }
 }
